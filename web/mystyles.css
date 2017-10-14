@@ -1,0 +1,221 @@
+ * {margin: 0; padding: 0;
+  font-family:   'Roboto' ;
+
+
+}
+body{
+  
+ background-size:cover;
+/*background-image: url(https://image.prntscr.com/image/Wlbaem0yTBmS80iW7P_bZg.jpg)  ; */
+background-attachment: fixed ;
+	background-position: top center;
+  max-width:100%;
+
+  
+	}
+
+
+.Headers {
+ color: black;
+ text-align: center;
+ float: left;
+ width: 60%;
+ padding-top: 2em;
+   font-size:100%;
+    
+}
+
+H1{
+  padding-bottom: 1em;
+  text-align: center;
+   
+}
+
+img{
+  float: left;
+  width: 20%;
+height:170px;
+ box-shadow: 3px 3px 3px 3px  #777; 
+  border-radius: 10px;
+ 
+}
+
+article{
+  padding-top: 13em;
+   font-size:100%;
+
+}
+
+.prices{
+  float: left;
+  width: 60%;
+   font-size:100%;
+}
+.ourprice{
+  margin-left:30%;
+  width: 60%;
+   font-size:100%;
+}
+
+H3{
+  text-align: center;
+  padding-bottom:1.5em;
+  font-size: 125%;
+}
+
+table {
+width:100%;
+  
+    border:1px solid #1b1116;
+   font-size:100%;
+  border-radius: 5px;
+    background:transparent	;
+    margin:6% auto ;
+   margin-left:7%;
+  margin-top:3%;
+}
+
+th, td {
+  padding:2%;
+    text-align:center; 
+  
+}
+ 
+th {
+    
+  padding:1%;
+  
+    background: RGBA(245,245,245,0.5);
+ 
+}
+
+ 
+.inform{
+  text-align:left;
+  float:left;
+  width:25%;
+   line-height: 1 ;
+  margin-left:10%;
+   font-size:100%;
+
+
+}
+
+p{
+  padding:1em;
+
+}
+
+.Choice{
+  clear:both;
+  
+}
+.def{
+  text-align: left;
+  margin-left:8%; 
+
+}
+.Services{
+  float:left;
+    
+  margin:0px 0px 0px 80px;
+  width: 22%;
+
+   font-size:100%;
+    font-weight: 900;
+   
+}
+.def1 {
+  text-align: left;
+  margin-left:8%;
+font-weight: bold;
+}
+.Longs{
+  float:left;
+  width: 22%;
+margin:0px 0px 0px 10px;
+   font-size:100%;
+    font-weight: 900;
+ 
+}
+.def2 {
+  text-align: left;
+ 
+  margin-left:8%;
+font-weight: bold;}
+.Discount{
+  float:left;
+ 
+   font-size:100%;
+  width: 22%;
+margin:0px 0px 0px 10px;
+    font-weight: 900;
+}
+.def3 {
+  text-align: left;
+
+  margin-left:8%;
+font-weight: bold;}
+.Topmaster{
+  float:left;
+  width: 22%;
+margin:0px 0px 0px 10px;
+   font-size:100%;
+
+   font-weight: 900;
+}
+
+.Count{
+    float:left;
+  width: 50%;
+    margin-left:50%;
+ 
+
+} 
+
+
+
+footer{
+  clear:both;   
+}
+
+.Adress{
+  float: left;
+  width: 60%;
+  text-align: center;
+  line-height: 0;
+ 
+
+}
+
+
+#calc{
+  width: 33%;
+
+  padding:1%;
+  font-size:150%;
+  color: #000000;
+  border-radius: 15% / 100%;
+  font-weight: bold;
+  background-image: none; 
+  background: transparent;
+  box-shadow: rgba(0,0,0,0.5) 3px 20px 10px -10px;
+
+  background-color: transparent;
+}
+#calc:hover,
+#calc:active {
+  background-color: #fff;
+  color: #000;
+  
+}
+#result{
+  width:100%;
+  margin-left: 30px; 
+  font-size:200%;
+  }
+
+    
+ 
+ 
+ }
