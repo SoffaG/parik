@@ -113,34 +113,36 @@ p{
 .def{
   text-align: left;
   margin-left:8%; 
-
+   font-weight: 900;
 }
+l {margin-left:15px; }
 .Services{
   float:left;
-    
-  margin:0px 0px 0px 80px;
+   
+  margin-left:10%;
   width: 22%;
 
    font-size:100%;
-    font-weight: 900;
-   
+      
 }
+
 .def1 {
   text-align: left;
   margin-left:8%;
 font-weight: bold;
+     font-weight: 900;
 }
 .Longs{
   float:left;
   width: 22%;
-margin:0px 0px 0px 10px;
+
    font-size:100%;
-    font-weight: 900;
+  
  
 }
 .def2 {
   text-align: left;
- 
+    font-weight: 900;
   margin-left:8%;
 font-weight: bold;}
 .Discount{
@@ -148,21 +150,21 @@ font-weight: bold;}
  
    font-size:100%;
   width: 22%;
-margin:0px 0px 0px 10px;
-    font-weight: 900;
+
+   
 }
 .def3 {
   text-align: left;
-
+   font-weight: 900;
   margin-left:8%;
 font-weight: bold;}
 .Topmaster{
   float:left;
   width: 22%;
-margin:0px 0px 0px 10px;
+
    font-size:100%;
 
-   font-weight: 900;
+  
 }
 
 .Count{
