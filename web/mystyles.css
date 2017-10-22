@@ -16,13 +16,13 @@ background-attachment: fixed ;
 
 
 .Headers {
- color: black;
- text-align: center;
- float: left;
- width: 60%;
- padding-top: 2em;
-   font-size:100%;
-    
+color: black;
+text-align: center;
+float: left;
+width: 70%;
+padding-top: 2em;
+font-size:100%;
+
 }
 
 H1{
@@ -30,10 +30,15 @@ H1{
   text-align: center;
    
 }
+article{
 
+clear:both;
+font-size:100%;
+padding:70px 40px;
+}
 img{
   float: left;
-  width: 20%;
+  width: 15%;
 height:170px;
  box-shadow: 3px 3px 3px 3px  #777; 
   border-radius: 10px;
@@ -47,43 +52,30 @@ article{
 }
 
 .prices{
-  float: left;
-  width: 60%;
-   font-size:100%;
-}
-.ourprice{
-  margin-left:30%;
-  width: 60%;
-   font-size:100%;
+float: left;
+width: 60%;
 }
 
+
 H3{
-  text-align: center;
-  padding-bottom:1.5em;
-  font-size: 125%;
+padding-bottom:1.5em;
+font-size: 125%;
 }
 
 table {
 width:100%;
-  
-    border:1px solid #1b1116;
-   font-size:100%;
-  border-radius: 5px;
-    background:transparent	;
-    margin:6% auto ;
-   margin-left:7%;
-  margin-top:3%;
-}
+border:1px solid #1b1116;
+border-radius: 5px;
+background:transparent ;
+margin-bottom:60px; }
 
 th, td {
-  padding:2%;
-    text-align:center; 
-  
+padding:15px;
+text-align:left; 
 }
  
 th {
     
-  padding:1%;
   
     background: RGBA(245,245,245,0.5);
  
@@ -91,19 +83,15 @@ th {
 
  
 .inform{
-  text-align:left;
-  float:left;
-  width:25%;
-   line-height: 1 ;
-  margin-left:10%;
-   font-size:100%;
 
+float:left;
+width:25%;
+margin-left:10%;
 
 }
 
-p{
-  padding:1em;
-
+p {
+padding:0 0 1em 0;
 }
 
 .Choice{
@@ -117,12 +105,9 @@ p{
 }
 l {margin-left:15px; }
 .Services{
-  float:left;
-   
-  margin-left:10%;
-  width: 22%;
-
-   font-size:100%;
+float:left;
+width: 22%;
+margin-bottom:2em;
       
 }
 
@@ -133,12 +118,9 @@ font-weight: bold;
      font-weight: 900;
 }
 .Longs{
-  float:left;
-  width: 22%;
-
-   font-size:100%;
-  
- 
+float:left;
+width: 22%;
+margin-bottom:2em; 
 }
 .def2 {
   text-align: left;
@@ -146,10 +128,9 @@ font-weight: bold;
   margin-left:8%;
 font-weight: bold;}
 .Discount{
-  float:left;
- 
-   font-size:100%;
-  width: 22%;
+float:left;
+width: 22%;
+margin-bottom:2em;
 
    
 }
@@ -159,57 +140,47 @@ font-weight: bold;}
   margin-left:8%;
 font-weight: bold;}
 .Topmaster{
-  float:left;
-  width: 22%;
-
-   font-size:100%;
+ float:left;
+width: 22%;
+margin-bottom:2em;
 
   
 }
 
 .Count{
-    float:left;
-  width: 50%;
-    margin-left:50%;
- 
-
-} 
-
+clear:both;
+text-align:center;
+border-top:1px solid #ddd;
+padding-top:50px;
+}
 
 
 footer{
-  clear:both;   
+clear:both; 
+padding-top:120px;
 }
 
 .Adress{
-  float: left;
-  width: 60%;
-  text-align: center;
-  line-height: 0;
- 
-
+float: left;
+width: 70%;
+text-align: center;
 }
 
 
 #calc{
-  width: 33%;
 
-  padding:1%;
-  font-size:150%;
-  color: #000000;
-  border-radius: 15% / 100%;
-  font-weight: bold;
-  background-image: none; 
-  background: transparent;
-  box-shadow: rgba(0,0,0,0.5) 3px 20px 10px -10px;
-
-  background-color: transparent;
+font-size:120%;
+color: #000000;
+border-radius: 9999px;
+color:#fff;
+background-color: #cc6622;
+padding:1em 2.5em;
+border:none;
+outline:none;
 }
 #calc:hover,
 #calc:active {
-  background-color: #fff;
-  color: #000;
-  
+background-color: #ee8833;
 }
 #result{
   width:100%;
