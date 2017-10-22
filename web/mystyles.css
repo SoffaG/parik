@@ -173,14 +173,14 @@ font-size:120%;
 color: #000000;
 border-radius: 9999px;
 color:#fff;
-background-color: #cc6622;
+background-color: #CD5C5C;
 padding:1em 2.5em;
 border:none;
 outline:none;
 }
 #calc:hover,
 #calc:active {
-background-color: #ee8833;
+background-color: #F08080;
 }
 #result{
   width:100%;
