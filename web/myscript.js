@@ -1,4 +1,4 @@
-﻿function calc() {
+function calc() {
   var res=0;
   var opt = $("input[name='opt']:checked").val();
   
@@ -24,7 +24,6 @@
   
     if (($("input[name='Стрижка']").is(":checked")) && (opt == "Длинные")) {
     res += 1000;
-    $(".").notify("BOOM!", "error");
   }
   if (($("input[name='Окрашивание']").is(":checked")) && (opt == "Длинные")){
     res += 2500;
