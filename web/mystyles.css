@@ -38,8 +38,8 @@ padding:70px 40px;
 }
 img{
   float: left;
-  width: 15%;
-height:170px;
+  width: 100%;
+height:auto;
  box-shadow: 3px 3px 3px 3px  #777; 
   border-radius: 10px;
  
